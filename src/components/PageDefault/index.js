@@ -12,13 +12,14 @@ const Main = styled.main`
 	padding-left: 5%:
 `;
 
-function PageDefault({ Children }) {
+function PageDefault(props) {
+	console.log(props)
 	return (
 		<>
 			<Menu />
-				<Main>
-					oi {Children}
-				</Main>
+			<Main>
+				{props.children}
+			</Main>
 			<Footer />
 		</>
 	)
