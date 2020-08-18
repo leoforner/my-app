@@ -76,26 +76,29 @@
       "titulo": "Séries",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Séries favoritas"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Gothan",
+          "url": "https://www.youtube.com/watch?v=VwOPA2upeCA"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Agents of S.H.I.E.L.D.",
+          "url": "https://www.youtube.com/watch?v=T3T-evQZiQo"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "The Umbrella Academy",
+          "url": "https://www.youtube.com/watch?v=5_4SW8HHfUs"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
+          "titulo": "Perdidos no Espaço",
+          "url": "https://www.youtube.com/watch?v=GYn4r6nV0tw"
+				},
+				{
+					"titulo":"Dark",
+					"url": "https://www.youtube.com/watch?v=rrwycJ08PSA"
+				}
       ]
     },
     {
@@ -107,16 +110,16 @@
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Batman: O Cavaleiro das Trevas",
+          "url": "https://www.youtube.com/watch?v=a-PVBsmiB0Y"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Baby Driver",
+          "url": "https://www.youtube.com/watch?v=z2z857RSfhk"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Star Wars: Return of Jedi",
+          "url": "https://www.youtube.com/watch?v=5UfA_aKBGMc"
         }
       ]
     },
@@ -124,58 +127,56 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Melhores jogos"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Warframe",
+          "url": "https://www.youtube.com/watch?v=MsbL8lFHrZI"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "GTA 5",
+          "url": "https://www.youtube.com/watch?v=QkkoHAzjnUs"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "JUST CAUSE 3",
+          "url": "https://www.youtube.com/watch?v=k6Wb5LplWPk"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "DEUS EX",
+          "url": "https://www.youtube.com/watch?v=CfV01sTqB68"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "ARK Survival",
+          "url": "https://www.youtube.com/watch?v=5fIAPcVdZO8"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Aprendendo",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "tem de tudo"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Manual do mundo",
+          "url": "https://www.youtube.com/watch?v=MKwlNj8cIZw"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Ciencia todo dia",
+          "url": "https://www.youtube.com/watch?v=BPKG_l2NcGc"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Nerdologia",
+          "url": "https://www.youtube.com/watch?v=C4eHJ8ZJgG4"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "José Kobori",
+          "url": "https://www.youtube.com/watch?v=RN7naqu3q_U"
         },
         {
-          "titulo": "Como aprender a programar?",
+          "titulo": "Alura",
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
