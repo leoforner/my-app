@@ -2,7 +2,6 @@ import React from 'react';
 import { VideoCardGroupContainer, Title, ExtraLink } from './styles';
 import VideoCard from './components/VideoCard';
 import Slider, { SliderItem } from './components/Slider';
-
 function Carousel({
   ignoreFirstVideo,
   category,
@@ -27,7 +26,10 @@ function Carousel({
       )}
       <Slider>
         {videos.map((video, index) => {
-          if (ignoreFirstVideo && index === 0){return null;}
+          if (ignoreFirstVideo && index === 0) {
+						return null;
+
+						}
 
           return (
             <SliderItem key={video.titulo}>
@@ -43,5 +45,4 @@ function Carousel({
     </VideoCardGroupContainer>
   );
 }
-
 export default Carousel;
